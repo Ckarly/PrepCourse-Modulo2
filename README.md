@@ -1,2 +1,2 @@
 # PrepCourse-Modulo2
-Esta es una prueba del Modulo 2 del Prepcourse
+Este proyecto es una pueba de como crear un repositorio en github y clonarla en mi pc
